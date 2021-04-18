@@ -1,0 +1,31 @@
+.main{
+    margin-top: 100px;
+    color: rgb(86, 129, 86);
+    font-size: 50px;
+    text-align: center;
+}
+.but1{
+    padding: 10px;
+    margin-right: 10px;
+}
+.but{
+    padding: 6px 15px;
+    color: green;
+    text-decoration: none;
+    font-size: 17px;
+}
+.container{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 700px;
+    background-color: rgb(61, 124, 61);
+}
+.input{
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 8px;
+}
